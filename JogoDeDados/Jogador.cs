@@ -10,9 +10,8 @@ public class Jogador
         Pontuacao++;
     }
 
-    public void JogarDados(out int resultado)
+    public void JogarDados(Random random, out int resultado)
     {
-        Random random = new Random();
         resultado = random.Next(1, 7);
     }
 }

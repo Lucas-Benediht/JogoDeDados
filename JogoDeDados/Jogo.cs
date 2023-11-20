@@ -5,11 +5,13 @@ public class Jogo
 {
     private Jogador jogador1;
     private Jogador jogador2;
+    private Random random;  // Adicionada uma instância única de Random
 
     public Jogo()
     {
         jogador1 = new Jogador();
         jogador2 = new Jogador();
+        random = new Random();  // Inicializa a instância de Random
     }
 
     public void IniciarJogo()
@@ -52,8 +54,8 @@ public class Jogo
 
             int resultadoJogador1, resultadoJogador2;
 
-            jogador1.JogarDados(out resultadoJogador1);
-            jogador2.JogarDados(out resultadoJogador2);
+            jogador1.JogarDados(random, out resultadoJogador1);
+            jogador2.JogarDados(random, out resultadoJogador2);
 
             Console.Clear();
             Console.WriteLine($"{jogador1.Nome} Jogou os dados e retirou: {resultadoJogador1}");
