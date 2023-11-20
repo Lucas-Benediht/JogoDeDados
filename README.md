@@ -34,25 +34,18 @@ O arquivo `Program` contém o método `Main`, que inicia o jogo.
 ## Screenshot
 - Segue algumas telas do console da aplicação:
   
-![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/b7f0fff2-990e-4529-965e-2644d87cecc2)
+![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/c8caf238-a12c-411f-983f-0d69f32a7ef3)
 
-![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/873bd5d7-6097-4b0e-b84f-03e29218fd0e)
+![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/f45c3139-11b7-45ad-b634-d122ed6a6dc3)
 
-![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/4b29e183-c019-47da-b0d5-a15b92a4c347)
+![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/2c9fd014-d00f-4c0e-9fce-10b8c8a02c85)
 
-![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/17b9bea5-bcf0-4313-bea8-a9d6a628451c)
+![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/ed6465ac-50ee-4180-8680-ffa6ffd12ae6)
 
-![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/9158accf-e68c-4776-ac37-04fa2657a520)
+![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/90270448-46a2-46dc-9533-d1b65e9bc9af)
 
-![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/6717a1d2-a9ce-4e97-8b29-d3cc80196ba3)
+![image](https://github.com/Lucas-Benediht/JogoDeDados/assets/110697669/7ef86cf3-11ef-4fe2-9529-3c96766efff5)
 
-
-
-
-
-
-
----
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
