@@ -1,4 +1,4 @@
-# Jogo de Dados
+# 🎲 Jogo de Dados 🎲
 
 ## Descrição
 Este é um simples jogo de dados em C# que permite que dois jogadores joguem dados por três rodadas. O vencedor é determinado com base na pontuação acumulada ao longo das rodadas.
